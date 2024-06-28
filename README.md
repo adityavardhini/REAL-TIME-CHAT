@@ -19,7 +19,7 @@ To run this application locally, follow these steps:
 1. Clone the repository:
 
    bash
-   git clone https:https://github.com/PavanTamadana/REAL-TIME-CHAT.git
+   git clone https:https://github.com/adityavardhini/REAL-TIME-CHAT.git
 2. Open backend folder and run it:
 
    bash
